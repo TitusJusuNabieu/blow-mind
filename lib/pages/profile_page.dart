@@ -89,7 +89,7 @@ class _ProfilePageState extends State<ProfilePage>{
                 child: Container(
                   alignment: Alignment.bottomLeft,
                   child: Text("Blow Mind Mobile App",
-                    style: TextStyle(fontSize: 25,color: Colors.white, fontWeight: FontWeight.bold),
+                    style: TextStyle(fontSize: 25,color: Colors.blue, fontWeight: FontWeight.bold),
                   ),
                 ),
               ),
